@@ -7,7 +7,7 @@
     "test": "karma start",
     "start": "node server.js"
   },
-  "author": "Danny Patel",
+  "author": "bvmCoder",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.9.1",
